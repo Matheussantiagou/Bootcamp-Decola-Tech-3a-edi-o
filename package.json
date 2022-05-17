@@ -1,0 +1,24 @@
+{
+  "name": "Bootcamp-Decola-Tech-3a-edi-o",
+  "version": "1.0.0",
+  "description": "Desafio de Projeto sobre Git/Github",
+  "main": "contaBancaria.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheussantiagou/Bootcamp-Decola-Tech-3a-edi-o.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheussantiagou/Bootcamp-Decola-Tech-3a-edi-o/issues"
+  },
+  "homepage": "https://github.com/Matheussantiagou/Bootcamp-Decola-Tech-3a-edi-o#readme",
+  "dependencies": {
+    "html": "^1.0.0",
+    "npm": "^8.10.0"
+  }
+}
