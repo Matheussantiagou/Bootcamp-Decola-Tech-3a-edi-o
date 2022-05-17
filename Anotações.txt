@@ -1,2 +1,0 @@
-TCP - Trasmission control protocol
-4 camadas - fisica(placa de rede), rede(ip), transporte(TCP, UDP), aplicação(http)
