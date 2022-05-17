@@ -2,7 +2,7 @@ function validaArr(arr, num){
   try{
     if(!arr && !num) throw new ReferenceError("Envie os parametros");
     if(typeof arr !== Object) throw new TypeError("O array precisa ser tipo object");
-    if(typeof arr !== number) throw new TypeError("O array precisa ser tipo numero");
+    if(typeof num !== number) throw new TypeError("Num precisa ser tipo numero");
     if(arr.length !== num) throw new RangeError("Tamanho invalido");
 
     return arr
